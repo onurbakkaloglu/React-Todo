@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Todo Uygulaması
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React.js öğrenme sürecinde katkısı olması açısından belirli kaynaklardan destek alarak hazırladığım bir proje.Proje klasik bir Todo uygulaması. Projede birçok React Hook'u kullanıldı, useState,useEffect,useRef,useReducer gibi.
 
 ## Available Scripts
 
